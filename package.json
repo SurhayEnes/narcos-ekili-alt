@@ -1,0 +1,19 @@
+{
+  "name": "narosgifbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "narcos.js",
+  "scripts": {
+    "test": "node narcos.js"
+  },
+  "author": "Narcos",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.1",
+    "moment": "^2.29.1",
+    "rhino-ms": "^0.4.0",
+    "wio.db": "^4.0.15"
+  }
+}
